@@ -1,0 +1,27 @@
+{
+  "name": "blockchainmusik",
+  "version": "1.0.0",
+  "description": "For musik distribution royalty and fee with no stressfull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hondagassbnbhhv/blockchainmusik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hondagassbnbhhv/blockchainmusik/issues"
+  },
+  "homepage": "https://github.com/Hondagassbnbhhv/blockchainmusik#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "hardhat": "^2.28.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.6.1"
+  }
+}
